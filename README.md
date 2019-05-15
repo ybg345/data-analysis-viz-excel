@@ -7,14 +7,14 @@
 # Welcome to My MS Excel Repository!
 
 ## Repository Description: 
-I have completed some MS Excel Course. This repository contains Solutions done by me of provided Homework's and Case Studies.
+I have completed some MS Excel Course. This repository contains all the excel files (practice and exercises solutions by me) which are provided as Homework's or as hands on practice in course section.
 
 ### Description (By Folder)
 
 <details>
     <summary><b>Data Analysis with Excel Pivot Tables</b></summary><br>
     
-    This folder contains two excel files namely - IMDd-Movie-Database-Analysis.xlsx & PivotTable-Case-Studies_Solutions_by_mehedi.xlsx
+    This folder contains two excel files namely - IMDd-Movie-Database-Analysis.xlsx & PivotTable-Case-Studies_Solutions_by_mehedi.xlsx. I have done these solutions for enhancing by skill for basic data analysis using Excel.
     
 </details> 
 <br>
@@ -22,6 +22,6 @@ I have completed some MS Excel Course. This repository contains Solutions done b
 <details>
     <summary><b>Microsoft Excel - Data Visualization with Excel Charts & Graphs</b></summary><br>
     
-    Working file will be uploaded soon. 
+    This folder contains Excel files of Hands of Practice and Excercise solutions by me. It also contains exercise questions as .html file. 
 
 </details>
