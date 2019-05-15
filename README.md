@@ -14,7 +14,7 @@ I have completed some MS Excel Course. This repository contains all the excel fi
 <details>
     <summary><b>Data Analysis with Excel Pivot Tables</b></summary><br>
     
-    This folder contains two excel files namely - IMDd-Movie-Database-Analysis.xlsx & PivotTable-Case-Studies_Solutions_by_mehedi.xlsx. I have done these solutions for enhancing by skill for basic data analysis using Excel.
+    This folder contains two excel files namely - IMDd-Movie-Database-Analysis.xlsx & PivotTable-Case-Studies_Solutions_by_mehedi.xlsx. I have solved these solutions for enhancing my skill in basic data analysis using Excel.
     
 </details> 
 <br>
@@ -22,6 +22,6 @@ I have completed some MS Excel Course. This repository contains all the excel fi
 <details>
     <summary><b>Microsoft Excel - Data Visualization with Excel Charts & Graphs</b></summary><br>
     
-    This folder contains Excel files of Hands of Practice and Excercise solutions by me. It also contains exercise questions as .html file. 
+    This folder contains Excel files of Hands on Practice and Excercise solutions by me. It also contains questions of exercise graphs and charts as .html file. 
 
 </details>
