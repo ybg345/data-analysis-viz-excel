@@ -1,8 +1,9 @@
 <p align="center">
-        <img height=150 src="https://raw.githubusercontent.com/ybg345/MS-Excel/master/Images/Excel_Logo.png">
+  <img height=150 src="https://raw.githubusercontent.com/ybg345/MS-Excel/master/Images/Excel_Logo.png">
+
 </p>
 
-# Welcome to My _MS Excel_ Repository!
+# Welcome to My _MS Excel_ Repository about Data Analysis & Visualization!
 
 ## Repository Description: 
 I have completed some MS Excel Courses. This repository contains all the excel files (practice and exercises solutions by me) provided as Homework's or as hands on practice in course curriculum.
@@ -13,7 +14,7 @@ I have completed some MS Excel Courses. This repository contains all the excel f
 This folder contains two excel files namely - `IMDd-Movie-Database-Analysis.xlsx` & `PivotTable-Case-Studies_Solutions_by_mehedi.xlsx`. I have solved these solutions for enhancing my skill in basic data analysis using Excel.
 
 - [**`IMDd-Movie-Database-Analysis.xlsx`**](https://github.com/ybg345/MS-Excel/blob/master/Data%20Analysis%20with%20Excel%20Pivot%20Tables/IMDd-Movie-Database-Analysis.xlsx):  I have analyzed some queries of `IMDB-Movie-Database-Analysis.xlsx` file. Related queries and solutions can be found in respective worksheet. Please [download](https://github.com/ybg345/MS-Excel/blob/master/Data%20Analysis%20with%20Excel%20Pivot%20Tables/IMDd-Movie-Database-Analysis.xlsx) the excel file to see the queries and solutions. 
-- [**`PivotTable-Case-Studies_Solutions.xlsx`**](https://github.com/ybg345/MS-Excel/blob/master/Data%20Analysis%20with%20Excel%20Pivot%20Tables/PivotTable-Case-Studies_Solutions_by_mehedi.xlsx): I have analyzed some datasets. Please [download](PivotTable-Case-Studies_Solutions.xlsx) the excel file to see all the case studies and relevant solutions. The dataset contains following case studies in separate worksheet-
+- [**`PivotTable-Case-Studies_Solutions.xlsx`**](https://github.com/ybg345/MS-Excel/blob/master/Data%20Analysis%20with%20Excel%20Pivot%20Tables/PivotTable-Case-Studies_Solutions_by_mehedi.xlsx): I have analyzed some datasets. Please [download](PivotTable-Case-Studies_Solutions.xlsx) the excel file to see all the case studies and relevant solutions. The dataset contains following case studies in seperate worksheet-
   - _U.S Voters(2012)_
   - _San Francisco Salaries_
   - _Shark Attack Records_
@@ -31,7 +32,7 @@ This folder contains two excel files namely - `IMDd-Movie-Database-Analysis.xlsx
 #### Folder Description - _Data Visualization with Excel Charts & Graphs_:
 --------------------------------------------------------------------------
     
-This folder contains two sub-folder namely - `Basic & Advanced Chart Types-Hands on Practice` and `Exercise-Solution of all Chart Types of MS Excel`.
+This folder contains two subfolder namely - `Basic & Advanced Chart Types-Hands on Practice` and `Exercise-Solution of all Chart Types of MS Excel`.
 
 - Basic Chart types containing in files [`Basic Chart Types Hands on Practice.xlsx`](https://github.com/ybg345/MS-Excel/blob/master/Data%20Visualization%20Charts%20%26%20Graphs%20with%20MS%20Excel/Basic%20%26%20Advanced%20Chart%20Types-Hands%20on%20Practice/Basic%20Chart%20Types%20Hands%20on%20Practice.xlsx) and [`Exercise-Solution of all Chart Types.xlsx`](https://github.com/ybg345/MS-Excel/blob/master/Data%20Visualization%20Charts%20%26%20Graphs%20with%20MS%20Excel/Exercise-Solution%20of%20all%20Chart%20Types%20of%20MS%20Excel/Exercise-Solution%20of%20all%20Chart%20Types.xlsx) - 
   - _Bar & Column Charts_
@@ -72,7 +73,7 @@ This folder contains two sub-folder namely - `Basic & Advanced Chart Types-Hands
 
 > References:  
 > 
-> I have completed these two courses and learned a lot. Definitely check out these courses if you want to improve your Excel skill. 
+> I have completed these two courses and learned a lot. Definitely check out these courses if you want to leverage your Analysis & Visualization skill with Excel to a next level. 
 > - [Microsoft Excel - Data Analysis with Excel Pivot Tables](https://www.udemy.com/data-analysis-with-excel-pivot-tables/)  
 > - [Microsoft Excel - Data Visualization, Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/)  
 > 
