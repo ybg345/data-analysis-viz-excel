@@ -1,9 +1,6 @@
-<p align="center">
-  <img height=150 src="https://raw.githubusercontent.com/ybg345/MS-Excel/master/Images/Excel_Logo.png">
+![excel](https://user-images.githubusercontent.com/46785798/65376985-7a9a1900-dcc8-11e9-88b0-30c20b073730.png) 
 
-</p>
-
-## <center> Excel Repository for Data Analysis with <br> Pivot Tables & Data Visualization! </center>
+# Excel Repository for Data Analysis with Pivot Tables & Data Visualization! 
 
 ### Repository Description: 
 I have completed some MS Excel Courses. This repository contains all the excel files (practice and exercises solutions by me) provided as Homework's or as hands on practice in course curriculum.
